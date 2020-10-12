@@ -2,7 +2,7 @@
 
 https://twitter.com/dailyAstroPhoto
 
-Twitter Bot deployed in AWS, publish photos from NASA's APOD API once a day.
+Twitter Bot deployed in AWS, upload photos and explanation about the universe from NASA's APOD API.
 
 ## Twitter Bot
 
